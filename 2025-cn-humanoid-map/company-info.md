@@ -22,3 +22,13 @@
 | <img src="Shenzhen/9_DexForce_跨维智能/Product_DexForce_W1-Pro.png" width="200"> | DexForce | W1 Pro | https://www.dexforce.com/ | Shenzhen | N/A |
 | <img src="Shenzhen/10_XSquareRobot_自变量机器人/Product_XSquareRobot_Quanta-X2.png" width="200"> | XSquare Robot | Quanta-X2 | https://www.x2robot.com/ | Shenzhen | N/A |
 | <img src="Shenzhen/11_LumosRobotics_鹿明机器人/Product_LumosRobotics_LUS2.png" width="200"> | Lumos Robotics | LUS2 | https://www.lumosbot.tech/ | Shenzhen | N/A |
+| <img src="Shanghai/1_MatrixRobotics_矩阵超智/Product_MatrixRobotics_Matrix-1.png" width="200"> | Matrix Robotics | Matrix-1 | https://matrixrobotics.ai/ | Shanghai | N/A |
+| <img src="Shanghai/2_WhalesBot_鲸鱼机器人/Product_WhalesBot_H7.png" width="200"> | WhalesBot | H7 | https://www.whalesbot.com/ | Shanghai | N/A |
+| <img src="Shanghai/3_KeplerRobotics_开普勒机器人/Product_KeplerRobotics_Forerunner-K2.png" width="200"> | Kepler Robotics | Forerunner K2 | https://www.gotokepler.com/ | Shanghai | N/A |
+| <img src="Shanghai/4_DroidUp_卓益得/Product_DroidUp_Walker02.png" width="200"> | DroidUp | Walker 02 | https://www.droidup.com/ | Shanghai | N/A |
+| <img src="Shanghai/5_AGIBOT_智元机器人/Product_AGIBOT_X1.png" width="200"> | AGIBOT | X1 | https://www.agibot.com/ | Shanghai | N/A |
+| <img src="Shanghai/6_Ti5robotTechnology_太虎机器人科技/Product_Ti5robotTechnology_T230A.png" width="200"> | Ti5robot Technology | T230A | https://www.ti5robot.com/ | Shanghai | N/A |
+| <img src="Shanghai/7_iSAGEBOT_飒智智能/Product_iSAGEBOT_STAR-SageMan.png" width="200"> | iSAGEBOT | STAR-SageMan | https://en.sage-modi.com/ | Shanghai | N/A |
+| <img src="Shanghai/8_Fourier_傅利叶/Product_Fourier_GR-3.png" width="200"> | Fourier | GR-3 | https://www.fftai.com/ | Shanghai | N/A |
+| <img src="Shanghai/9_Robbyant_蚂蚁灵波科技/Product_Robbyant_R1.png" width="200"> | Robbyant | R1 | https://www.robbyant.com/ | Shanghai | N/A |
+| <img src="Shanghai/10_HumanoidRobot_人形机器人上海/Product_HumanoidRobot_QingLong.png" width="200"> | Humanoid Robot (Shanghai) | QingLong | https://www.openloong.net/ | Shanghai | N/A |
