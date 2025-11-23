@@ -42,3 +42,9 @@
 | <img src="Suzhou/2_YMBOT_云幕智造/Product_YMBOT_Type-D.png" width="200"> | YMBOT | Type D | http://www.ymbot.com/ | Suzhou | N/A |
 | <img src="Guangzhou/1_XPENG_小鹏/Product_XPENG_IRON.png" width="200"> | XPENG | IRON | https://www.xiaopeng.com/ | Guangzhou | N/A |
 | <img src="Guangzhou/2_GACGroup_广汽集团/Product_GACGroup_GoMate.png" width="200"> | GAC Group | GoMate | https://www.gacgroup.com/ | Guangzhou | N/A |
+| <img src="Nanjing/1_ESTUN-Codroid_埃斯顿酷卓科技/Product_ESTUN-Codroid_01.png" width="200"> | ESTUN Codroid | 01 | https://www.codroid.ai/ | Nanjing | N/A |
+| <img src="Foshan/1_Midea_美的/Product_Midea_Prototype.png" width="200"> | Midea | Prototype | https://www.midea.com.cn/ | Foshan | N/A |
+| <img src="ChangSha/1_CHAONENG-Robot_超能机器人/Product_CHAONENG-Robot_Xiangjiang-No-1.png" width="200"> | CHAONENG Robot | Xiangjiang No.1 | http://www.hncnbot.com/ | ChangSha | N/A |
+| <img src="Hefei/1_ZERITH_零次方/Product_ZERITH_Z1.png" width="200"> | ZERITH | Z1 | https://www.zerith.com/ | Hefei | N/A |
+| <img src="Qingdao/1_Haier_海尔/Product_Haier_STEP.png" width="200"> | Haier | STEP | https://www.haier.com/ | Qingdao | N/A |
+| <img src="Jinan/1_YOBOTICS_优特宝机器人/Product_YOBOTICS_E1.png" width="200"> | YOBOTICS | E1 | https://www.yobotics.cn/ | Jinan | N/A |
