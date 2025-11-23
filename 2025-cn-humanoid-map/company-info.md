@@ -37,3 +37,4 @@
 | <img src="Hangzhou/3_DEEPRobotics_云深处科技/Product_DEEPRobotics_DR-02.png" width="200"> | DEEP Robotics | DR-02 | https://www.deeprobotics.cn/ | Hangzhou | N/A |
 | <img src="Hangzhou/4_SpiritAI_千寻智能/Product_SpiritAI_MozRobot.png" width="200"> | Spirit AI | Moz Robot | https://www.spirit-ai.com/ | Hangzhou | N/A |
 | <img src="Hangzhou/5_UnitreeRobotics_宇树机器人/Product_UnitreeRobotics_G1.png" width="200"> | Unitree Robotics | G1 | https://www.unitree.com/ | Hangzhou | N/A |
+| <img src="Ningbo/1_ZJ-Humanoid_浙江人形机器人创新中心/Product_ZJ-Humanoid_NAVIAI-i2.png" width="200"> | Zhejiang Humanoid Robot Innovation Center | NAVIAI i2 | https://www.zj-humanoid.com/ | Ningbo | N/A |
