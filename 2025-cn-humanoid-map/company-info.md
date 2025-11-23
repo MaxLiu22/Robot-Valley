@@ -32,3 +32,8 @@
 | <img src="Shanghai/8_Fourier_傅利叶/Product_Fourier_GR-3.png" width="200"> | Fourier | GR-3 | https://www.fftai.com/ | Shanghai | N/A |
 | <img src="Shanghai/9_Robbyant_蚂蚁灵波科技/Product_Robbyant_R1.png" width="200"> | Robbyant | R1 | https://www.robbyant.com/ | Shanghai | N/A |
 | <img src="Shanghai/10_HumanoidRobot_人形机器人上海/Product_HumanoidRobot_QingLong.png" width="200"> | Humanoid Robot (Shanghai) | QingLong | https://www.openloong.net/ | Shanghai | N/A |
+| <img src="Hangzhou/1_TowardsAGI_智澄 AI/Product_TowardsAGI_TR5.png" width="200"> | TowardsAGI | TR5 | https://www.zhicheng-robot.com/ | Hangzhou | N/A |
+| <img src="Hangzhou/2_LanxinRobotics_蓝芯科技/Product_LanxinRobotics_VMR-VB2.png" width="200"> | Lanxin Robotics | VMR-VB2 | https://www.lanxinrobotics.com/ | Hangzhou | N/A |
+| <img src="Hangzhou/3_DEEPRobotics_云深处科技/Product_DEEPRobotics_DR-02.png" width="200"> | DEEP Robotics | DR-02 | https://www.deeprobotics.cn/ | Hangzhou | N/A |
+| <img src="Hangzhou/4_SpiritAI_千寻智能/Product_SpiritAI_MozRobot.png" width="200"> | Spirit AI | Moz Robot | https://www.spirit-ai.com/ | Hangzhou | N/A |
+| <img src="Hangzhou/5_UnitreeRobotics_宇树机器人/Product_UnitreeRobotics_G1.png" width="200"> | Unitree Robotics | G1 | https://www.unitree.com/ | Hangzhou | N/A |
