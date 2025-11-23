@@ -38,3 +38,5 @@
 | <img src="Hangzhou/4_SpiritAI_千寻智能/Product_SpiritAI_MozRobot.png" width="200"> | Spirit AI | Moz Robot | https://www.spirit-ai.com/ | Hangzhou | N/A |
 | <img src="Hangzhou/5_UnitreeRobotics_宇树机器人/Product_UnitreeRobotics_G1.png" width="200"> | Unitree Robotics | G1 | https://www.unitree.com/ | Hangzhou | N/A |
 | <img src="Ningbo/1_ZJ-Humanoid_浙江人形机器人创新中心/Product_ZJ-Humanoid_NAVIAI-i2.png" width="200"> | Zhejiang Humanoid Robot Innovation Center | NAVIAI i2 | https://www.zj-humanoid.com/ | Ningbo | N/A |
+| <img src="Suzhou/1_Magiclab_魔法原子/Product_Magiclab_MagicBot-Z1.png" width="200"> | Magiclab | MagicBot Z1 | https://www.magiclab.top/ | Suzhou | N/A |
+| <img src="Suzhou/2_YMBOT_云幕智造/Product_YMBOT_Type-D.png" width="200"> | YMBOT | Type D | http://www.ymbot.com/ | Suzhou | N/A | 
