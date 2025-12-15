@@ -1,0 +1,148 @@
+{
+"companies" : {
+    "Noetix Robotics": {
+        "model_name":"N2",
+        "official_website": "https://en.noetixrobotics.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://en.noetixrobotics.com/join.html",
+        "cn_name": "松延动力"
+    },
+    "Booster Robotics": {
+        "model_name":"T1",
+        "official_website": "https://www.booster.tech/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.zhipin.com/gongsi/e31a2aa77f0ce7f41HR-2di1FFY~.html",
+        "cn_name": "加速进化"
+    },
+    "Galaxea AI": {
+        "model_name":"R1 Pro",
+        "official_website": "https://galaxea-ai.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.zhipin.com/gongsi/job/ac5406ec27e40a191HR_2Ni_GFM~.html?ka=company-jobs",
+        "cn_name": "星海图"
+    },
+    "CASBOT": {
+        "model_name":"02",
+        "official_website": "https://casbot.tech/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.zhipin.com/gongsi/6af49446246079391HV82tS8E1E~.html?ka=company-intro",
+        "cn_name": "灵宝"
+    },
+    "Galbot": {
+        "model_name":"G1",
+        "official_website": "https://www.galbot.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.galbot.com/careers",
+        "cn_name": "银河通用"
+    },
+    "RobotEra": {
+        "model_name":"L7",
+        "official_website": "https://www.robotera.com/en/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.robotera.com/join.html",
+        "cn_name": "星动纪元"
+    },
+    "Corenetic": {
+        "model_name":"Monte02",
+        "official_website": "https://www.corenetic.ai/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.corenetic.ai/join-us",
+        "cn_name": "源络科技"
+    },
+    "Beijing Innovation Center of Humanoid Robotics": {
+        "model_name":"Tien Kung 2.0",
+        "official_website": "https://www.x-humanoid.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://zitd5je6f7j.jobs.feishu.cn/referral/position?token=MzsxNzUzODU2MjYwNDI4OzczNDI0MDAyNjkzMjAwMjgxNjI7MDsx",
+        "cn_name": "北京人形机器人创新中心"
+    },
+    "Phybot": {
+        "model_name":"M1",
+        "official_website": "https://www.phybot.tech/en/home", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.phybot.tech/join-us",
+        "cn_name": "动易科技"
+    },
+    "Dexteleop Intelligence": {
+        "model_name":"TeleAvatar-Lite",
+        "official_website": "https://www.dexteleop.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://jcnpqmhgptfj.jobs.feishu.cn/index/m/?spread=JX28QFC",
+        "cn_name": "灵御智能"
+    },
+    "Xiaomi": {
+        "model_name":"CyberOne",
+        "official_website": "https://www.mi.com/cyberone", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://hr.xiaomi.com/",
+        "cn_name": "小米"
+    },
+    "Realman Robotics": {
+        "model_name":"Embodied Dual-Arm Lifting Platform",
+        "official_website": "https://www.realman-robotics.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://app.mokahr.com/social-recruitment/realman/149934#/jobs?zhineng%5B0%5D=187671&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList",
+        "cn_name": "睿尔曼"
+    },
+    "HARIBIT":{
+        "model_name":"BHR-08",
+        "official_website": "https://www.haribit.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.haribit.com/index.php?c=join&catid=18",
+        "cn_name": "理工华汇"
+    },
+    "Vizum":{
+        "model_name":"Xiao Wei",
+        "official_website": "http://www.vizumtech.com/", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "http://www.vizumtech.com/recruit.html",
+        "cn_name": "伟景智能"
+    },
+    "GENISOM AI":{
+        "model_name":"Full-size Humanoid Robot",
+        "official_website": "https://zsibot.com/home", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://www.zhipin.com/gongsi/574244613dd1020803V529y9FFI~.html",
+        "cn_name": "智身科技"
+    },
+    "Yue Quan Bionics":{
+        "model_name":"Boxing X-Bot",
+        "official_website": "https://yqbionics.com/sy", 
+        "displayed_model_picture":"",
+        "brand_logo_picture":"logo_pic_link",
+        "city": "Beijing",
+        "career page": "https://yqbionics.com/jrwm",
+        "cn_name": "月泉仿生"
+    }
+}
+}
