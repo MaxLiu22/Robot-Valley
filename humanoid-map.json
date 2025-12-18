@@ -143,6 +143,114 @@
         "city": "Beijing",
         "career page": "http://www.vizumtech.com/recruit.html",
         "cn_name": "伟景智能"
+    },
+    "AgiBot": {
+        "model_name":"X2",
+        "official_website": "www.agibot.com",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhiyuan-robot.com/join_us",
+        "cn_name": "智元机器人"
+    },
+    "Fourier": {
+        "model_name":"G3",
+        "official_website": "www.fftai.com",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.fftai.com/career",
+        "cn_name": "傅利叶智能"
+    },
+    "Ti5Robot": {
+        "model_name":"T170 A",
+        "official_website": "www.ti5robot.com/en/",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhipin.com/gongsi/30a7ce5d333806501nd63966ElA~.html",
+        "cn_name": "钛虎机器人"
+    },
+    "Keepler": {
+        "model_name":"K2",
+        "official_website": "gotokepler.com/home",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhipin.com/gongsi/job/df65785ecc0b2c9003R629W4FVQ~.html",
+        "cn_name": "开普勒机器人"
+    },
+    "Matrix Robotics": {
+        "model_name":"MATRIX-1",
+        "official_website": "www.matrixrobotics.ai",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.matrixrobotics.ai/zh-cn/careers",
+        "cn_name": "矩阵超智"
+    },
+    "Whalesbot": {
+        "model_name":"H7",
+        "official_website": "www.whalesbot.ai",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhipin.com/gongsi/3710d6fe78f01de933xy09W7Eg~~.html",
+        "cn_name": "鲸鱼机器人"
+    },
+    "DroidUp": {
+        "model_name":"Xing Zhe No.2",
+        "official_website": "www.droidup.com",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.droidup.com/jiaruwomen",
+        "cn_name": "卓益得机器人"
+    },
+    "Robbyant": {
+        "model_name":"R1-S",
+        "official_website": "www.robbyant.com",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhipin.com/companys/0bd91afb33a787d103N90924EFA~.html",
+        "cn_name": "灵波科技"
+    },
+    "Cyan": {
+        "model_name":"Orca I",
+        "official_website": "www.cyanborg.com",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.cyanborg.com/jrwm",
+        "cn_name": "青心意创"
+    },
+    "iSAGEBOT": {
+        "model_name":"Four-arm Humanoird robot",
+        "official_website": "en.sage-modi.com/index.aspx",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.liepin.com/company/12148735/",
+        "cn_name": "飒智智能"
+    },
+    "Humanoid Robot": {
+        "model_name":"Qing Long",
+        "official_website": "www.openloong.net",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.openloong.net/col.jsp?id=114",
+        "cn_name": "人形机器人（上海）"
+    },
+    "QingBao": {
+        "model_name":"A1F",
+        "official_website": "www.qingyun-robot.com/zh/home",
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.liepin.com/company-jobs/13056561/",
+        "cn_name": "清宝引擎机器人"
     }
 }
 }
