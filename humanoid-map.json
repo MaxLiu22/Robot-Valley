@@ -251,6 +251,15 @@
         "city": "Shanghai",
         "career page": "www.liepin.com/company-jobs/13056561/",
         "cn_name": "清宝引擎机器人"
+    },
+    "RuShen": {
+        "model_name":"Qijia Q1",
+        "official_website": "www.robot-gym.com/robot", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shanghai",
+        "career page": "www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html",
+        "cn_name": "如身机器人"
     }
 }
 }
