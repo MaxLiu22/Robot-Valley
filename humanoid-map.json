@@ -260,6 +260,60 @@
         "city": "Shanghai",
         "career page": "www.zhipin.com/gongsi/ca196d83261c2d141X1-29W1FFM~.html",
         "cn_name": "如身机器人"
+    },
+    "Unitree": {
+        "model_name":"G1",
+        "official_website": "www.unitree.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.unitree.com/position",
+        "cn_name": "宇树科技"
+    },
+    "DeepRobotics": {
+        "model_name":"DR02",
+        "official_website": "www.deeprobotics.cn/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.zhipin.com/gongsi/38f3fae3410a70991nd509i8Fw~~.html",
+        "cn_name": "云深处科技"
+    },
+    "Spirit AI": {
+        "model_name":"Moz Robot",
+        "official_website": "www.spirit-ai.com/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.spirit-ai.com/en/career",
+        "cn_name": "千寻智能"
+    },
+    "Zhicheng AI": {
+        "model_name":"TR5",
+        "official_website": "www.zhicheng-robot.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.zhipin.com/gongsi/aa7863fb9480bfbb1Hdy0ti9ElA~.html",
+        "cn_name": "智澄AI"
+    },
+    "LANXIN Robotics": {
+        "model_name":"VMR-VB2",
+        "official_website": "www.lanxincn.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "lanxincn.zhiye.com",
+        "cn_name": "蓝芯机器人"
+    },
+    "ELU.AI": {
+        "model_name":"AstroDroid",
+        "official_website": "elu-ai.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.zhipin.com/gongsi/3cec6cd7eb91b05703Ry0tm5F1I~.html",
+        "cn_name": "原力无限"
     }
 }
 }
