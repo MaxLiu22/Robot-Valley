@@ -314,6 +314,222 @@
         "city": "Hangzhou",
         "career page": "www.zhipin.com/gongsi/3cec6cd7eb91b05703Ry0tm5F1I~.html",
         "cn_name": "原力无限"
+    },
+    "TLIBOT": {
+        "model_name":"T1Pro",
+        "official_website": "www.tlibot.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Mianyang",
+        "career page": "www.tlibot.com/about_us.html#c_static_001-17237877146690",
+        "cn_name": "天链机器人"
+    },
+    "Magic Lab": {
+        "model_name":"MagicBot Z1",
+        "official_website": "www.magiclab.top/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Wuxi",
+        "career page": "magiclab.zhiye.com/social",
+        "cn_name": "魔法原子"
+    },
+    "TIAN QING": {
+        "model_name":"T1",
+        "official_website": "www.tqartisan.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hangzhou",
+        "career page": "www.zhipin.com/gongsi/0422e7b23dc72bbe03By0tS5ElM~.html",
+        "cn_name": "软通天擎"
+    },
+    "UniX AI": {
+        "model_name":"Martian",
+        "official_website": "www.unix-group.ai", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Suzhou",
+        "career page": "www.unix-group.ai/join/199.html",
+        "cn_name": "优理奇"
+    },
+    "EIR": {
+        "model_name":"SKYWALKER I",
+        "official_website": "www.eir.com.cn/#/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Chengdu",
+        "career page": "www.eir.com.cn/#/about?section=talent",
+        "cn_name": "具身科技"
+    },
+    "Estun Codroid": {
+        "model_name":"Codroid 02",
+        "official_website": "www.codroid.ai/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Nanjing",
+        "career page": "www.zhipin.com/gongsi/job/dac7905d695149501HZ73Nu8EFE~.html",
+        "cn_name": "埃斯顿酷卓"
+    },
+    "ZERITH": {
+        "model_name":"Z1",
+        "official_website": "www.zerith.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Hefei",
+        "career page": "www.zerith.com/join",
+        "cn_name": "零次方机器人"
+    },
+    "ZJ-Humanoid": {
+        "model_name":"NAVIAI-i2",
+        "official_website": "www.zj-humanoid.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Ningbo",
+        "career page": "www.zj-humanoid.com/join/#xmd",
+        "cn_name": "浙江人形机器人创新中心"
+    },
+    "AtomRobot": {
+        "model_name":"Atom 01",
+        "official_website": "www.atomrobot.ai", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Tianjing",
+        "career page": "www.atomrobot.com/Recruiting",
+        "cn_name": "阿童木机器人"
+    },
+    "Rokae": {
+        "model_name":"Human.X",
+        "official_website": "www.rokae.com/en/?u=aHR0cDovL3d3dy5yb2thZS5jb20vY24v", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Jining",
+        "career page": "www.rokae.com/cn/about/107/Careers.html",
+        "cn_name": "珞石机器人"
+    },
+    "GLRoad": {
+        "model_name":"Laborer-1",
+        "official_website": "www.glroad.com/HumanoidRobots/index.aspx", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Wuhan",
+        "career page": "www.glroad.com/JoinUs/index.aspx",
+        "cn_name": "格蓝若机器人"
+    },
+    "HEC": {
+        "model_name":"H1",
+        "official_website": "www.hec-al.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Wuhan",
+        "career page": "hec.zhiye.com",
+        "cn_name": "光谷东智"
+    },
+    "PNDBotics": {
+        "model_name":"Adam",
+        "official_website": "pndbotics.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Ningbo",
+        "career page": "www.zhipin.com/gongsi/a9f8ff5721f79c7a03V63dS7FlI~.html",
+        "cn_name": "柏奥尼克机器人"
+    },
+    "CHAONENG ROBOT": {
+        "model_name":"Xiangjiang No.1",
+        "official_website": "www.hncnbot.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Changsha",
+        "career page": "www.zhipin.com/gongsi/3d168f69d3eb5f151nN43t66Eg~~.html",
+        "cn_name": "超能机器人"
+    },
+    "YMBot": {
+        "model_name":"Type F",
+        "official_website": "www.ymbot.com/home", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Suzhou",
+        "career page": "m.zhipin.com/companys/0ad0d9f955364aa503d83tS7GVc~.html",
+        "cn_name": "云幕智造"
+    },
+    "YoBotics": {
+        "model_name":"E1",
+        "official_website": "www.yobotics.cn/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Jinan",
+        "career page": "www.yobotics.cn/about/zxns/",
+        "cn_name": "优宝特机器人"
+    },
+    "Midea": {
+        "model_name":"Miro U",
+        "official_website": "www.midea.com.cn/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Foshan",
+        "career page": "www.midea.com.cn/en/careers",
+        "cn_name": "美的"
+    },
+    "GAC Group": {
+        "model_name":"GoMate",
+        "official_website": "www.gacgroup.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Guangzhou",
+        "career page": "career.gac-international.com/apply/gac-international/100006013/",
+        "cn_name": "广汽集团"
+    },
+    "High Torque": {
+        "model_name":"Hi",
+        "official_website": "www.gacgroup.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Guangzhou",
+        "career page": "career.gac-international.com/apply/gac-international/100006013/",
+        "cn_name": "高擎机电"
+    },
+    "Li-Gong": {
+        "model_name":"LeadIn D1",
+        "official_website": "li-gong.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Guangzhou",
+        "career page": "m.zhipin.com/companys/32b0338623524aa21Xx53do~.html",
+        "cn_name": "里工实业"
+    },
+    "Chery": {
+        "model_name":"Mornine",
+        "official_website": "www.cheryinternational.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Wuhu",
+        "career page": "chery.zhiye.com",
+        "cn_name": "奇瑞汽车"
+    },
+    "HFUN-TECH": {
+        "model_name":"HM01",
+        "official_website": "www.hfun-tech.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Jinhua",
+        "career page": "www.hfun-tech.com/col.jsp?id=102",
+        "cn_name": "有怡科技"
+    },
+    "YIJIAHE": {
+        "model_name":"RK100",
+        "official_website": "en.yijiahe.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Nanjing",
+        "career page": "en.yijiahe.com/jobs",
+        "cn_name": "亿嘉和集团"
+    },
+    "EXRobots": {
+        "model_name":"Xiaoqi",
+        "official_website": "www.exrobots.net", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Dalian",
+        "career page": "www.exrobots.net/?page_id=4253",
+        "cn_name": "蒂艾斯科技"
     }
 }
 }
