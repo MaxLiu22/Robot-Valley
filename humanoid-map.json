@@ -530,6 +530,177 @@
         "city": "Dalian",
         "career page": "www.exrobots.net/?page_id=4253",
         "cn_name": "蒂艾斯科技"
+    },
+    "UBTECH": {
+        "model_name":"Walker S2",
+        "official_website": "www.ubtrobot.com/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.zhipin.com/companys/faf4dcd4bbcfac351nJ92tW6EVY~.html",
+        "cn_name": "优必选机器人"
+    },
+    "LIMX Dynamics": {
+        "model_name":"Oli",
+        "official_website": "limxdynamics.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "limxdynamics.com/en/about#careers",
+        "cn_name": "逐际动力"
+    },
+    "LEJU Robot": {
+        "model_name":"KUAVO 4.0",
+        "official_website": "www.lejurobot.cn/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.zhipin.com/gongsi/2c25c62189532e1b0XZ62926.html",
+        "cn_name": "乐聚机器人"
+    },
+    "EngineAI": {
+        "model_name":"PM01",
+        "official_website": "en.engineai.com.cn", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "en.engineai.com.cn/career.html",
+        "cn_name": "众擎机器人"
+    },
+    "Pudu Tech": {
+        "model_name":"D9",
+        "official_website": "www.pudurobotics.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "pudutech.zhiye.com",
+        "cn_name": "普渡科技"
+    },
+    "Digit": {
+        "model_name":"Xia Lan S02",
+        "official_website": "digit.com.cn/Default.html", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "digit.com.cn/Join.html",
+        "cn_name": "数字华夏"
+    },
+    "Lumos Robotics": {
+        "model_name":"LUS2",
+        "official_website": "www.lumosbot.tech/index.html", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.lumosbot.tech/career.html",
+        "cn_name": "鹿明机器人"
+    },
+    "AI2Robotics": {
+        "model_name":"AlphaBot",
+        "official_website": "ai2robotics.com/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.lumosbot.tech/career.html",
+        "cn_name": "智平方"
+    },
+    "Dexforce": {
+        "model_name":"W1 Pro",
+        "official_website": "www.dexforce.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.zhipin.com/gongsi/a29d4dc56c588cfa1XR52tu8E1U~.html",
+        "cn_name": "跨维智能"
+    },
+    "DOBOT": {
+        "model_name":"Atom–Max",
+        "official_website": "www.dobot.cn", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "dobot.zhiye.com",
+        "cn_name": "越疆机器人"
+    },
+    "Astribot": {
+        "model_name":"S1",
+        "official_website": "www.astribot.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.astribot.com/en/careers",
+        "cn_name": "星辰智能"
+    },
+    "Cyborg": {
+        "model_name":"R01",
+        "official_website": "www.cyb-org.cn", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.cyb-org.cn/index.php?id=contact#l1",
+        "cn_name": "赛博格"
+    },
+    "XPENG": {
+        "model_name":"IRON",
+        "official_website": "www.xpeng.com/?fromNav=1", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "xiaopeng.jobs.feishu.cn/index",
+        "cn_name": "小鹏机器人"
+    },
+    "Daimon Robotics": {
+        "model_name":"One",
+        "official_website": "www.dmrobot.com/en/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "app.mokahr.com/social-recruitment/daimon-robotics/148582?locale=zh-CN#/jobs",
+        "cn_name": "戴盟机器人"
+    },
+    "Paxini": {
+        "model_name":"TORA DOUBLE ONE",
+        "official_website": "paxini.com", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "paxini.com/recruit",
+        "cn_name": "帕西尼感知"
+    },
+    "RoboSense": {
+        "model_name":"RoboSense",
+        "official_website": "www.robosense.ai/en/index/index", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "app.mokahr.com/campus-recruitment/robosense/69887#/",
+        "cn_name": "速腾聚创"
+    },
+    "OneRobotics": {
+        "model_name":"onero",
+        "official_website": "www.onero.cn", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.zhipin.com/gongsi/857e8f4db1f987811Hxy0ty_FA~~.html",
+        "cn_name": "卧安机器人"
+    },
+    "Tencent Robotics X": {
+        "model_name":"The Five",
+        "official_website": "roboticsx.tencent.com/#/", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "careers.tencent.com/en-us/home.html",
+        "cn_name": "腾讯机器人"
+    },
+    "X Square Robot": {
+        "model_name":"QuantaX2",
+        "official_website": "www.x2robot.com/en", 
+        "displayed_model_picture_title":"",
+        "brand_logo_picture_title":"logo_pic_link",
+        "city": "Shenzhen",
+        "career page": "www.x2robot.com/en/join",
+        "cn_name": "自变量机器人"
     }
 }
 }
